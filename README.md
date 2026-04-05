@@ -218,3 +218,11 @@ This prototype can be extended significantly. Possible enhancements include:
 ## License
 
 This project is intended for research and educational purposes.
+
+---
+
+## Author
+
+Jay Sanghavi
+
+GitHub: https://github.com/JaySanghavi
